@@ -1,0 +1,16 @@
+{
+  "name": "Purpose to Abundance",
+  "short_name": "PurposeApp",
+  "description": "Daily spiritual integration app for purpose-driven abundance",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#8B5CF6",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIGZpbGw9IiM4MjVDRjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI...",
+      "sizes": "128x128",
+      "type": "image/svg+xml"
+    }
+  ]
+}
